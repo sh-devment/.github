@@ -4,4 +4,4 @@
 ### 🚀 I’m working more to work much less
 
 ### 🌹 Roses are red, YAML is blue
-### 🌐 My [website](https://sh-development.ru/) is live and waiting for you
+### 🌐 My [website](https://sh-development.com/) is live and waiting for you
