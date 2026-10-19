@@ -1,7 +1,7 @@
 ## Hey there! 👋
 
-### ⚙️ I automate everything that moves
-### 🚀 And what doesn't move, I make it move — then automate it too
+### ⚙️  I automate what moves
+### 🚀 and move what doesn't
 
 ---
 
@@ -9,6 +9,6 @@
 
 **Sergey Shumilov**
 
+📧 **Email:**    [wumilovsergey@gmail.com](mailto:wumilovsergey@gmail.com)  
 💬 **Telegram:** [@sergey_showmelove](https://t.me/sergey_showmelove)  
-📧 **Email:** [wumilovsergey@gmail.com](mailto:wumilovsergey@gmail.com)  
-🌐 **Website:** [shdevelopment.com](https://shdevelopment.com)
+🌐 **Website:**  [shdevelopment.com](https://shdevelopment.com)
