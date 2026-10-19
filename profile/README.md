@@ -9,6 +9,6 @@
 
 **Sergey Shumilov**
 
-📧 **Email:** [wumilovsergey@gmail.com](mailto:wumilovsergey@gmail.com)
+📧 **Email:**    [wumilovsergey@gmail.com](mailto:wumilovsergey@gmail.com)  
 💬 **Telegram:** [@sergey_showmelove](https://t.me/sergey_showmelove)  
-🌐 **Website:** [shdevelopment.com](https://shdevelopment.com)
+🌐 **Website:**  [shdevelopment.com](https://shdevelopment.com)
