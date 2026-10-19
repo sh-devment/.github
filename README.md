@@ -11,4 +11,4 @@
 
 📧 **Email:**    [wumilovsergey@gmail.com](mailto:wumilovsergey@gmail.com)  
 💬 **Telegram:** [@sergey_showmelove](https://t.me/sergey_showmelove)  
-🌐 **Website:**  [shdevelopment.com](https://sh-development.com)
+🌐 **Website:**  [sh-development.com](https://sh-development.com)
