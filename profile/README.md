@@ -1,7 +1,14 @@
-## Hi there 👋
+## Hey there! 👋
 
-### ☯ I’m Dev for Ops and Ops for Devs
-### 🚀 I’m working more to work much less
+### ⚙️ I automate everything that moves
+### 🚀 And what doesn't move, I make it move — then automate it too
 
-### 🌹 Roses are red, YAML is blue
-### 🌐 My [website](https://sh-development.com/) is live and waiting for you
+---
+
+### 📬 Get in touch
+
+**Sergey Shumilov**
+
+💬 **Telegram:** [@sergey_showmelove](https://t.me/sergey_showmelove)  
+📧 **Email:** [wumilovsergey@gmail.com](mailto:wumilovsergey@gmail.com)  
+🌐 **Website:** [shdevelopment.com](https://shdevelopment.com)
